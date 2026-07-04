@@ -285,6 +285,35 @@ _(Only passing ideas.)_
 | 16 | #10 Rank-and-rent lead-gen | 🟨🟨 2.5/5 | Google-algo-dependent, uncertain payoff | Online | 5 |
 | 17 | #8 Amazon/Walmart arbitrage | 🟥🟥 2/5 | Account-suspension + capital + margin compression | Online | 6 |
 
+## Table C — Ranked MOST → LEAST manageable by AI on your behalf
+_How much of the ongoing work can an AI assistant (drafting, research, categorizing, summarizing) actually carry, so you supervise instead of grind?_
+
+**One caveat that applies to every row:** AI is great at the *repeatable production* (writing, researching, matching, categorizing, listing). It cannot do the two things that actually gate these businesses — **(1) client acquisition / sales & trust**, and **(2) anything physical, licensed, or liability-bearing.** So even a 9/10 here means "AI runs the delivery; *you* still land the clients." That selling is the real bottleneck, not the labor.
+
+| Rank | Opportunity | AI-manageable | What AI can carry (most of it) | What stays on YOU (the bottleneck) | Fit |
+|---|---|---|---|---|---|
+| 1 | #4 B2B lead-list building | 🤖🤖🤖🤖🤖 9/10 | Research, enrichment, formatting, dedup, first-pass verification | Final QC, the sales to land the retainer | 8 |
+| 2 | #14 Grant-finding retainer | 🤖🤖🤖🤖🤖 9/10 | Scanning databases, matching eligibility, summarizing, drafting the monthly digest | Client relationship, judgment on fit | 7 |
+| 3 | #2 Review generation/mgmt | 🤖🤖🤖🤖 8/10 | Drafting every review response + request message, scheduling logic | Getting clients, approving sensitive replies | 8 |
+| 4 | #1 GBP management | 🤖🤖🤖🤖 8/10 | Posts, Q&A, citation-audit checklists, monthly reports | Account access, sales, strategic calls | 9 |
+| 5 | #12 SOP documentation | 🤖🤖🤖🤖 8/10 | Turning interview transcripts into clean SOPs/checklists, formatting | The discovery interviews, selling the project | 8 |
+| 6 | #11 Niche B2B newsletter | 🤖🤖🤖🤖 7/10 | Curating, summarizing, drafting each issue | **Sponsor sales** (the whole revenue) + list-building | 6 |
+| 7 | #5 Cold-email appt-setting | 🤖🤖🤖🤖 7/10 | Copy, personalization, list targeting, reply triage drafts | Deliverability config, results ownership | 6 |
+| 8 | #7 STR dynamic pricing | 🤖🤖🤖🤖 7/10 | The pricing tool already automates; AI tunes rules & explains | Onboarding clients, monthly review | 7 |
+| 9 | #17 Missed-call text-back | 🤖🤖🤖🤖 7/10 | Building/adjusting the flows, drafting message copy | Live-uptime babysitting, selling setups | 6 |
+| 10 | #3 Niche bookkeeping | 🤖🤖🤖 6/10 | First-pass transaction categorization, reconciliation prep, report drafts | **You must verify every number** (accuracy/liability); client trust | 9 |
+| 11 | #10 Rank-and-rent lead-gen | 🤖🤖🤖 6/10 | Site copy, content, on-page basics | The actual *ranking* (SEO judgment + links) — the hard, uncertain part | 5 |
+| 12 | #6 STR co-hosting | 🤖🤖🤖 5/10 | Auto-drafting guest messages, FAQ replies, scheduling | Emergencies, cleaner coordination, physical fixes | 6 |
+| 13 | #8 Amazon/Walmart arbitrage | 🤖🤖🤖 5/10 | Deal analysis, ROI math, listing copy | Buying decisions, capital, physical prep/shipping | 6 |
+| 14 | #9 Niche parts reselling | 🤖🤖 4/10 | Research, pricing, writing listings | **Physical** sourcing, inventory, packing, shipping | 7 |
+| 15 | #16 Medical claims follow-up | 🤖🤖 4/10 | Drafting appeals, analyzing denial codes | HIPAA compliance, payer-portal work, phone calls | 6 |
+| 16 | #13 Permit expediting | 🤖🤖 3/10 | Researching requirements, prepping paperwork | Sitting on hold, in-person submission, official follow-up | 8 |
+| 17 | #15 Estate-liquidation listing | 🤖🤖 3/10 | Writing listings, pricing research | **Physically** seeing/handling/valuing items on-site | 6 |
+
+**The pattern worth noticing:** your two Tier-1 anchors split on this axis. **#1 GBP is highly AI-manageable (8/10)** — most of the monthly delivery is content AI drafts. **#3 bookkeeping is only 6/10** — AI speeds it up, but you can't hand off verifying the numbers (that's the liability). So if "AI does most of it" is a top priority, **GBP, lead-lists, grant-finding, and review management are your best four** — all high-fit *and* high-AI-leverage. Bookkeeping stays the most *stable* but demands more of your own eyes.
+
+**Where AI leverage and your goal collide:** the ideas AI can most fully run (#4, #14, #1, #2) are also mostly the fast/mid ones — meaning the realistic play is *let AI carry delivery while you spend your human hours almost entirely on getting clients.* That inverts the usual solo-operator problem in your favor.
+
 ---
 
 ## My read: the paths most likely to actually get you to $3–5k/month
