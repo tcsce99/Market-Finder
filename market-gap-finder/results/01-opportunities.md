@@ -22,7 +22,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 
 2. **"Reaching $3–5k" and "reaching it fast" are different rankings.** The stablest, most defensible ideas (bookkeeping, GBP retainers) ramp *slowly* because trust and client count compound. The fast ones (reselling, lead-list building) are more volatile. That's the core trade-off Table A vs. Table B exposes — read both.
 
-**Scoring key:** Speed = Fast (first $ in <4 weeks) / Medium (1–3 months) / Slow (3+ months). Risk/stability on a 5-point scale: 🟥 High-risk/low-stability → 🟩 Low-risk/high-stability. "Fit score" is my read of fit to *your specific* profile (analytical, no-code, halal, semi-passive-eventually, $3–5k goal), not the idea's general quality.
+**Scoring key:** Speed = Fast (first $ in <4 weeks) / Medium (1–3 months) / Slow (3+ months). Risk/stability on a 5-point scale: 🟥 High-risk/low-stability → 🟩 Low-risk/high-stability. "Fit score" is my read of fit to *your specific* profile (analytical, no-code, halal, semi-passive-eventually, $3–5k goal), not the idea's general quality. **"AI leverage"** = how much of the ongoing delivery work an AI assistant can carry for you (same scores as Table C); note the universal caveat there — AI never does the *selling* or the *physical/licensed* parts.
 
 ---
 
@@ -38,6 +38,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Realistic monthly income once established:** $2,000–$5,000 at 8–12 clients.
 - **Speed:** Medium (first client in 2–6 weeks via cold outreach). **Risk/stability:** 🟩🟩🟩🟩 (4/5) — recurring, sticky, results are visible so churn is low.
 - **Passive/active:** Semi-passive after setup — 30–60 min/client/month. Systematize with a repeatable monthly checklist.
+- **AI leverage: 8/10** — AI drafts posts, review replies, Q&A, citation audits, and monthly reports; you handle account access, sales, and strategic calls.
 - **Fit score for me: 9/10** — analytical, checklist-driven, no-code, recurring, halal-clean, and the math to $3–5k is clean. Your single best "systems" fit.
 
 ### 2. Review generation & response management for practices
@@ -50,6 +51,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,500–$4,000.
 - **Speed:** Fast–Medium. **Risk/stability:** 🟩🟩🟩🟩 (4/5).
 - **Passive/active:** Semi-passive; response-writing is the only recurring touch.
+- **AI leverage: 8/10** — AI drafts every review response and request message plus the scheduling logic; you approve sensitive replies and land clients.
 - **Fit score for me: 8/10** — very close cousin of #1 and often sold together; the response-writing is mildly "creative," which nudges it below #1 for you.
 
 ### 3. Bookkeeping for ONE trade niche (e.g., trucking owner-operators, cleaning companies)
@@ -63,6 +65,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Speed:** Slow (trust-based; 1–3 months to first client, ramps steadily). **Risk/stability:** 🟩🟩🟩🟩🟩 (5/5) — the single most stable, recurring, defensible idea here.
 - **Passive/active:** Active but predictable; systematizable, and each client is a decade-long annuity.
 - **Halal note:** Recording a client's transactions that happen to include loan interest is generally considered acceptable (you're accounting, not earning/paying riba). Avoid taking banks/lenders themselves as clients if you want to be strict. ⚠️ Verify with your own reference.
+- **AI leverage: 6/10** — AI does first-pass transaction categorization, reconciliation prep, and report drafts, but **you must verify every number** — the accuracy liability can't be offloaded, and neither can client trust.
 - **Fit score for me: 9/10** — the most durable, most analytical, most defensible path to a stable $3–5k. Only "cost" is the upfront learning curve.
 
 ### 4. B2B lead-list building & CRM data enrichment (done-for-you research)
@@ -75,6 +78,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,500–$4,000.
 - **Speed:** **Fast** (first paid project in 1–2 weeks — small deliverable, low trust barrier). **Risk/stability:** 🟨🟨🟨 (3/5) — somewhat commoditized; defensibility comes from niching into one industry.
 - **Passive/active:** Active; systematizable but doesn't go passive.
+- **AI leverage: 9/10** — AI handles research, enrichment, formatting, dedup, and first-pass verification almost end-to-end; you do final QC and the selling. One of the two most AI-runnable ideas here.
 - **Fit score for me: 8/10** — fastest cash, purely analytical/puzzle work, cheap to start. Ceiling limited by hours unless you productize into retainers.
 
 ### 5. Cold-email appointment-setting (done-for-you) for ONE niche
@@ -87,6 +91,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $2,000–$6,000.
 - **Speed:** Medium. **Risk/stability:** 🟨🟨🟨 (3/5) — results-dependent; a client churns if meetings dry up.
 - **Passive/active:** Active; never fully passive.
+- **AI leverage: 7/10** — AI writes and personalizes copy, targets lists, and drafts reply triage; you own deliverability config and results.
 - **Fit score for me: 6/10** — highest $/hour on this list and analytical, but the deliverability tech and results-pressure cut against "conservative + no-code."
 
 ### 6. Short-term-rental co-hosting / remote guest management (Houston + remote owners)
@@ -99,6 +104,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,500–$4,500.
 - **Speed:** Medium. **Risk/stability:** 🟨🟨🟨 (3/5) — travel-demand sensitive and regulation-sensitive (cities keep tightening STR rules).
 - **Passive/active:** Semi-passive once systematized, but guest emergencies are inherently reactive.
+- **AI leverage: 5/10** — AI auto-drafts guest messages and FAQ replies and handles scheduling, but emergencies, cleaner coordination, and physical fixes stay human.
 - **Fit score for me: 6/10** — good systems fit and recurring, but reactive 24/7 element and regulatory drift keep it mid.
 
 ### 7. Vacation-rental dynamic-pricing service (lightweight version of #6)
@@ -111,6 +117,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,000–$3,500.
 - **Speed:** Medium. **Risk/stability:** 🟨🟨🟨 (3/5).
 - **Passive/active:** **Most passive** on this list once set up (rules run themselves; you tune monthly).
+- **AI leverage: 7/10** — the pricing tool already automates and AI tunes/explains the rules; you onboard clients and review monthly.
 - **Fit score for me: 7/10** — beautifully analytical and semi-passive, but low per-client price means you need many clients to reach $3–5k. Great *add-on* to #6.
 
 ### 8. Amazon/Walmart online arbitrage & replenishable wholesale
@@ -123,6 +130,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,000–$4,000 (highly variable early).
 - **Speed:** Medium (account setup + first sourcing = 3–6 weeks). **Risk/stability:** 🟥🟥 (2/5) — Amazon can gate categories/suspend accounts; capital tied up in inventory; competition compresses margins.
 - **Passive/active:** Active sourcing; systematizable but never hands-off.
+- **AI leverage: 5/10** — AI does deal analysis, ROI math, and listing copy, but buying decisions, capital, and physical prep/shipping are all on you.
 - **Fit score for me: 6/10** — bullseye for your analytical style, but capital-hungry beyond budget and platform-risk works against "conservative."
 
 ### 9. Niche marketplace reselling of hard-to-find parts
@@ -135,6 +143,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,000–$3,500.
 - **Speed:** Medium. **Risk/stability:** 🟨🟨🟨 (3/5) — inventory can sit; but low platform-suspension risk vs. Amazon.
 - **Passive/active:** Active; listings are semi-passive once up.
+- **AI leverage: 4/10** — AI handles research, pricing, and writing listings, but the **physical** sourcing, inventory, packing, and shipping are manual.
 - **Fit score for me: 7/10** — great puzzle/analytical fit and halal-clean; slower cash and modest ceiling at your hours.
 
 ### 10. Rank-and-rent lead-gen site for a local trade
@@ -147,6 +156,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $0 for months, then potentially $1,500–5,000 as sites stack.
 - **Speed:** **Slow.** **Risk/stability:** 🟨🟨 (2.5/5) — Google-algorithm-dependent; but once ranked, very passive and durable.
 - **Passive/active:** The most genuinely passive endpoint on the list — *if* it works.
+- **AI leverage: 6/10** — AI generates all the site copy and on-page content, but the actual *ranking* (SEO judgment + link-building) is human and genuinely uncertain — that's where the idea lives or dies.
 - **Fit score for me: 5/10** — the semi-passive endpoint is exactly what you want, but the SEO uncertainty and long payback clash with conservative + guaranteed-income needs. A "second bet," not a first.
 
 ### 11. Niche B2B trade newsletter (sponsor-funded)
@@ -159,6 +169,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $0 early → $2,000–5,000 once list + sponsors mature.
 - **Speed:** **Slow** (6–12 months to a sellable list). **Risk/stability:** 🟩🟩🟩🟩 (4/5 once established) — a niche B2B list is a durable, defensible asset you own outright (not algorithm-dependent).
 - **Passive/active:** Active weekly cadence; sponsor sales are the work.
+- **AI leverage: 7/10** — AI curates, summarizes, and drafts each issue; **sponsor sales (the entire revenue) and list-building stay on you.**
 - **Fit score for me: 6/10** — durable, ownable, halal, and analytical in the audience-building sense; the writing cadence and slow ramp are the drawbacks. Strong *long-game* asset.
 
 ### 12. SOP / process-documentation service for small businesses
@@ -172,6 +183,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Speed:** Medium. **Risk/stability:** 🟨🟨🟨🟨 (3.5/5) — projects are lumpy but the retainer tail stabilizes it.
 - **Passive/active:** Active/project-based; the retainer portion is semi-passive.
 - **Halal/constraint note:** This is *documenting*, not *teaching/coaching* — you produce artifacts, you don't instruct people. Stays inside the line.
+- **AI leverage: 8/10** — AI turns interview transcripts into clean SOPs and checklists and formats them; you run the discovery interviews and sell the project.
 - **Fit score for me: 8/10** — this is almost a definition of "analytical, systems, puzzle-solving." Main knock: project-based income needs the retainer add-on to feel stable.
 
 ### 13. Permit research / expediting assistance (Houston-local)
@@ -184,6 +196,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,500–$4,000.
 - **Speed:** Medium. **Risk/stability:** 🟩🟩🟩🟩 (4/5) — repeat B2B relationships, very defensible local knowledge moat.
 - **Passive/active:** Active but highly systematizable (you build a checklist per permit type once).
+- **AI leverage: 3/10** — AI researches requirements and preps paperwork, but sitting on hold, in-person submission, and official follow-up can't be offloaded.
 - **Fit score for me: 8/10** — quintessential "boring, bureaucratic, big-players-can't-serve-it" puzzle work with a real local moat. Only local (Houston) and requires learning the system.
 
 ### 14. Grant-finding research retainer for nonprofits & small businesses
@@ -197,6 +210,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Speed:** Slow–Medium (nonprofit sales cycles are slow). **Risk/stability:** 🟩🟩🟩🟩 (4/5) — sticky retainers once trust is built.
 - **Passive/active:** Semi-passive; the monthly scan is repeatable.
 - **Halal note:** Keep to halal-clean orgs and non-riba grants; easy to control. Avoid interest-based financing "grants."
+- **AI leverage: 9/10** — AI scans databases, matches eligibility, summarizes, and drafts the monthly digest almost end-to-end; you own the client relationship and fit judgment. The most AI-runnable idea here alongside #4.
 - **Fit score for me: 7/10** — clean analytical/research fit and recurring, but the slow nonprofit sales cycle tempers speed.
 
 ### 15. Estate-liquidation online listing & pricing service (Houston-local)
@@ -209,6 +223,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,500–$4,000 (project-lumpy).
 - **Speed:** Medium. **Risk/stability:** 🟨🟨🟨 (3/5) — steady demand, but income is lumpy and partly physical/local.
 - **Passive/active:** Active, project-based.
+- **AI leverage: 3/10** — AI writes listings and researches prices, but **physically** seeing, handling, and valuing items on-site is all human — the core of the work.
 - **Fit score for me: 6/10** — the pricing/research work suits you and the demographic tailwind is real, but the physical/local element and lumpy income lower it.
 
 ### 16. Medical claims / denial follow-up for solo practitioners
@@ -221,6 +236,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,500–$4,500.
 - **Speed:** Slow (credential/knowledge ramp). **Risk/stability:** 🟩🟩🟩🟩 (4/5 once established) — very sticky, recurring, defensible.
 - **Passive/active:** Active but systematizable.
+- **AI leverage: 4/10** — AI drafts appeals and analyzes denial codes, but HIPAA compliance, payer-portal work, and phone calls stay human.
 - **Fit score for me: 6/10** — excellent analytical/systems fit and very stable long-term, but the HIPAA + coding-knowledge ramp is the steepest here.
 
 ### 17. "Missed-call text-back" + booking automation setup for local service businesses
@@ -233,6 +249,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 - **Income:** $1,500–$4,000.
 - **Speed:** Fast–Medium. **Risk/stability:** 🟨🟨🟨 (3/5) — recurring, but you own uptime headaches and platform-dependency.
 - **Passive/active:** Semi-passive after setup, minus troubleshooting.
+- **AI leverage: 7/10** — AI builds and adjusts the flows and drafts message copy; you babysit live uptime and sell the setups.
 - **Fit score for me: 6/10** — recurring and analytical-ish, but the "you now babysit live automations" reality rubs against your no-maintenance constraint. Lower than the pure-service plays for that reason.
 
 ---
