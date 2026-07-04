@@ -7,7 +7,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 | Filter | Value |
 |---|---|
 | **Budget** | ~$500 to start |
-| **Time** | 7–10 hours/week |
+| **Time** | 7–10 hrs/week on weekdays **+ up to ~10 hrs across Sat/Sun = ~17–20 hrs/week total** |
 | **Location** | Houston, TX — only matters for physical-presence work |
 | **Skills** | Not a developer. Beginner "vibe coder." No real coding or software maintenance. |
 | **Work style** | Prefers analytical / systems / process / puzzle work over creative or teaching |
@@ -18,7 +18,7 @@ _Generated 2026-07-04. Analyst pass against your filters._
 
 ### Two honest realities to keep in front of you
 
-1. **The 7–10 hr/week ceiling is the binding constraint, not the $500.** For most of these, $500 is plenty. What actually limits you is billable time. To hit $3–5k/mo in ~8 hrs/week you need **high-dollar recurring work** (roughly $300–600/client/month, 8–12 clients that each take <1 hr/month once set up), OR **product/arbitrage margin** that isn't priced by your hours. Low-ticket hourly work (basic VA tasks) mathematically can't get you there at this hour budget. I've weighted toward the ideas that can.
+1. **Time is your binding constraint, not the $500 — but ~17–20 hrs/week is a comfortable budget for this goal.** For most of these, $500 is plenty. At the weekday-only rate (7–10 hrs) $3–5k/mo demands *high-dollar recurring work only*. With your weekend hours added (~17–20 hrs total), the picture relaxes a lot: you can carry more clients, absorb the ramp on a slower play, or run a fast cash idea *and* a slow durable one in parallel. Concretely, the weekend block is ideal for the "batch" work — sourcing/listing (#8, #9, #15), a weekly newsletter (#11), or monthly bookkeeping closes (#3) — while weekday hours handle client comms. You still want $300–600/client recurring work as the backbone (it's the cleanest math to $3–5k), but you're no longer forced into it as the *only* option.
 
 2. **"Reaching $3–5k" and "reaching it fast" are different rankings.** The stablest, most defensible ideas (bookkeeping, GBP retainers) ramp *slowly* because trust and client count compound. The fast ones (reselling, lead-list building) are more volatile. That's the core trade-off Table A vs. Table B exposes — read both.
 
@@ -302,7 +302,7 @@ Weighing your *whole* profile (analytical, no-code, halal, conservative, semi-pa
 **Tier 3 — only as a deliberate second bet, eyes open:**
 - **#11 B2B newsletter** (great asset, slow) and **#10 rank-and-rent** (passive dream, speculative SEO) — both are "plant now, harvest much later," not income for month one.
 
-**The honest ceiling caveat:** at 7–10 hrs/week, $3–5k/mo is very reachable with high-ticket recurring services (Tier 1) but *not* with low-ticket hourly work. Your constraint pushes you toward $300–600/client retainers where 8–12 clients — each needing <1 hr/month once systematized — does the job. That's the whole game.
+**The honest ceiling caveat (updated for ~17–20 hrs/week):** $3–5k/mo is comfortably reachable now. With weekend hours in play you can run *two* things — e.g., a fast cash play (#4 lead-lists) to fund the ramp while a durable anchor (#3 bookkeeping or #1 GBP) compounds. High-ticket recurring services are still the cleanest math ($300–600/client × 8–12 clients, each <1 hr/month once systematized), but you now have the slack to layer in a slower, more passive asset (#7 pricing, #11 newsletter) without starving the core. The batch-heavy ideas (#8/#9/#15 sourcing & listing, #11 newsletter production, #3 monthly closes) map perfectly onto a dedicated weekend block. Bottom line: time is no longer the thing standing between you and the goal — client acquisition is.
 
 ---
 
