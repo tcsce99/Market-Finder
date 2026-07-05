@@ -1,42 +1,48 @@
-# Cypress Neglect Scan — Results (2026-07-05)
+# Houston Neglect Scan — Results (2026-07-05)
 
-_First real Apify Google Maps pull, Cypress TX. Broad cross-section (~85 businesses across many categories). Scored for weak profiles = Local Presence prospects._
+_Two Apify pulls: a small Cypress sample, then a deep ~400-business Houston-metro pull (Google Maps Extractor). Scored for weak profiles = Local Presence prospects._
 
 **Weak = reviewsCount < 30 OR no website OR wrong category.**
 
-## % weak by target trade
+## % weak by trade (full metro data — authoritative)
 
-| Trade | # in pull | # weak | % weak | Verdict |
+| Trade | ~# in scan | ~% weak | Ticket/job | Verdict |
 |---|---|---|---|---|
-| Tree service | 4 | 3 | **75%** | Most neglected, but thin pipeline |
-| **Appliance repair** | ~12 | 7 | **~58%** | 🎯 **Beachhead — weak AND deep** |
-| Fence/patio (partial) | 3 | 2 | ~66% | Too few pulled to judge |
-| Junk removal | 4 | 1 | 25% | Fairly served + thin |
+| **Fence contractor** | ~30 | **~65%** | **$2k–8k** | 🎯 **WINNER — highest weak % AND highest ticket** |
+| Junk removal | ~40 | ~62% | $150–600 | Weak + deep, low ticket |
+| Tree service | ~50 | ~60% | $500–3k | Strong #2 — deep, good ticket |
+| Appliance repair | ~52 | ~57% | $150–350 | Deep, lowest ticket |
+| Garage door | ~65 | ~35% | $300–1.5k | Saturated (confirmed) |
 
-**Decision: Appliance repair.** Only trade with both a high weak-rate and enough players for a real pipeline. Tree service is more neglected but too few businesses.
+**Decision: Fence contractor.** Only trade that leads on *both* neglect and job value → easiest $300/mo justification (one fence job = 2+ yrs of fee).
 
-## Hot prospects — appliance repair (invisible-on-Maps = easiest pitch)
+## Key insight
+Scan was **metro-wide**, and Local Presence is **remote** — so the serviceable market is all of Houston, not just Cypress. Cypress was only ever a pitch-credibility beachhead. Pipeline = ~20 weak fence contractors across the metro.
 
-| Business | Reviews | Website | Category | Note |
-|---|---|---|---|---|
-| Urbanedge Appliance Repair Co | none | none | Appliance repair service | Near-invisible |
-| Orlando Appliance Repair Company | none | none | Appliance repair service | Near-invisible |
-| Brookstone Appliance Repair Contractors | none | none | Appliance repair service | Near-invisible |
-| Advanced Appliance Repair | 4 | none | Appliance repair service | Thin + no site |
-| AV Appliance | 5 | av-appliance.com | Appliance repair service | Low reviews, has site |
-| AMR Appliance | 2 | mrappliance.com | ❌ Appliance parts supplier | Miscategorized + 2 reviews |
+## Fence hot-list
 
-Market leaders for contrast: Mega (622), Sears (260, national), Pro (82), Penny (69), UltraFix (60). Big top-to-bottom gap = strong conditions for the service.
+**Best (real business, glaring gap, can afford it):**
+- **Weldz-R-Us Welding & Fabrication — 93 reviews, NO website.** Busy but invisible. First call.
 
-## Tree service backups (higher ticket)
-- All-Around Ventures LLC — 1 review, no website
-- Highpoint Tree Care — 7 reviews
-- (Skip Grounds Guys — franchise)
+**Invisible-on-Maps (easiest pitch):**
+| Business | Reviews | Website |
+|---|---|---|
+| X L Forging | 2 | none |
+| Bella Luxe Landscape | 1 | none |
+| TATA Fence | 3 | none |
+| Quick Solutions | 7 | none |
+| Renderos Outdoors LLC | 7 | none |
+| Aguilar Professional Fences | 3 | yes |
+| Brazos Fence Inc | 9 | yes |
+| TH Pro Services | 3 | yes |
+| Pro Starr Services | 10 | yes |
+| Pinnacle Group Houston | 21 | yes |
+
+Leaders for contrast: Ergeon (1042), Katchakid (470), Automatic Gate (129), Texas Fence Pros (96). Big top-to-bottom gap = strong conditions.
 
 ## Caveats before outreach
-1. **Small samples** (4–12/trade). Run one targeted scan — `appliance repair` in Cypress, max 40 — to get 20–30 prospects.
-2. **Shell-check the no-website ones** on Maps (like Garage Door Cypress TX was). Blank profile usually = real tiny operator (ideal), but confirm not a dead listing.
-3. **Ticket size:** appliance jobs $150–350 → $300/mo is a slightly harder sell than tree ($500–3,000/job). Appliance wins on volume, tree on per-client value.
+1. **Shell-check** the no-website ones on Maps (dead listing vs real tiny operator).
+2. Ticket size makes fence the easiest sell; tree service is the backup if fence outreach stalls.
 
 ## Next
-- Deeper targeted appliance-repair scan → then write cold outreach + free 1-page audit for appliance repair.
+Write cold outreach + free 1-page audit for fence contractors, starting with Weldz-R-Us + the invisible-on-Maps list.
