@@ -28,6 +28,14 @@ Only the real owner can verify ownership (Google may require a video walkthrough
 - Reply to all new reviews; keep new ones coming (share the review link)
 - Keep info accurate; note map ranking; send a simple 1-page monthly report
 
+## Google Posts (the "weekly post") — where & how
+- **What:** a mini-announcement shown in the "Updates/Latest" section of the Google listing (Search + Maps). Like a Facebook post, on Google.
+- **Where:** logged into the manager account → Google-search the business → **"Add update"** (or business.google.com → **Add update**, or Maps app → Business → Promote). Type 1–2 sentences, attach a photo, optional button, Publish. Live in minutes.
+- **Type:** mostly "Update"; also Offer / Event.
+- **Why weekly:** only the newest shows prominently; Google favors active profiles. Honest: posts are supporting cast, not a big ranking lever (reviews + categories + working site matter more).
+- **What to post (contractor):** recent job + photo · service spotlight · seasonal offer · review highlight · quick tip/FAQ. Client feeds photos (reuse their Facebook gallery with permission).
+- **AI leverage:** give AI the client + a photo caption → it writes 4 posts at once; you paste + publish one a week (~5 min/wk). No native scheduler, so post manually.
+
 ## Website fix (no-code — be honest about scope)
 - ⚠️ Google retired its built-in free website in 2024 — don't promise it.
 - Stopgap: point the listing's website field to their **Facebook page** (live > dead).
