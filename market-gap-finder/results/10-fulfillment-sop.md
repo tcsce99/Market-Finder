@@ -45,6 +45,22 @@ Only the real owner can verify ownership (Google may require a video walkthrough
 ## Where AI does the heavy lifting (your 8/10 leverage)
 For each client, AI drafts: business description, category/service list, weekly posts, review replies. You paste them in.
 
+## Onboarding script (say/send this to a new client on day 1)
+
+**1. The trust framing (say this first):**
+> "Quick note on how this works: you stay the owner of your Google listing the whole time. You just add me as a 'manager,' so I never need your password. Everything I do shows up right on your own profile — you can see it anytime — and you can remove my access with two clicks whenever you want. Nothing's hidden."
+
+**2. Pre-empt Google's notification emails:**
+> "Heads up — you might get an occasional email from Google saying 'an edit was made to your Business Profile.' That's just me doing the work we agreed on, nothing to worry about."
+
+**3. Ask for access (the one thing you need them to do):**
+> "To get started, I need you to (a) make sure your listing is verified — if Google asks you to confirm you own the business, do that; only you can — then (b) add me as a manager: on your Business Profile go to Settings → People and access → Add → [your email] → set me as 'Manager.' Two minutes and we're rolling."
+
+**4. Intake — collect once, up front:**
+> "Send me whenever you can: your correct hours, the areas you serve, a short list of every service you offer, and 8–10 photos of recent jobs (or just point me to your Facebook and I'll pull them). I'll handle the rest."
+
+_(For no-website clients, add: "I'll also get a working web link on your listing so clicks stop hitting a dead page.")_
+
 ## Tips
 - Do your **first client's setup on a screen-share with them** — learn the panel in one session, looks attentive.
 - Time: ~2–4 hrs setup per client, then ~45 min/month. 10–17 clients = $3–5k at a few hrs/week.
