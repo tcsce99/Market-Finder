@@ -1,28 +1,29 @@
 # Brand
 
 ## Name
-**Get Surfaced** — with a city abbreviation suffix per market.
-- Houston: **Get Surfaced HTX** · `getsurfacedhtx.com`
-- Expansion pattern: Get Surfaced ATL (`getsurfacedatl.com`), Get Surfaced DAL (`getsurfaceddal.com`), etc.
+**Surfaced** — with a city abbreviation suffix per market.
+- Houston: **Surfaced HTX** · `surfacedhtx.com`
+- Expansion pattern: Surfaced ATL (`surfacedatl.com`), Surfaced DAL (`surfaceddal.com`), etc.
 - Same brand everywhere; swap only the city code. Reads local in each market, scales cleanly.
 
 ## What it means
-"Surfaced" = you get *surfaced* (shown) in Google search/Maps results. Name works as a call to action.
+"Surfaced" = you get *surfaced* (shown) in Google search/Maps results.
 
 ## Tagline options
-- **Get found. Get called. Get Surfaced.** (recommended)
-- More reviews. More calls. Get Surfaced.
-- We get Houston businesses found on Google.
+- **Get found on Google.** (simple, benefit-first)
+- Local businesses, surfaced.
+- We surface Houston businesses on Google.
+- More reviews. More calls. Surfaced.
 
 ## One-liner (what you sell)
 "I get local contractors found on Google Maps so their phone rings more."
 
 ## Contact format
-- Email: `wael@getsurfacedhtx.com` (Google Workspace) or `getsurfacedhtx@gmail.com` to start
+- Email: `wael@surfacedhtx.com` (Google Workspace) or `surfacedhtx@gmail.com` to start
 - Phone: (346) 560-3506
-- Handles: @getsurfacedhtx
+- Handles: @surfacedhtx
 
 ## To-do before spending on branding
-- [ ] Check + buy `getsurfacedhtx.com` (porkbun/namecheap, ~$10/yr)
+- [ ] Check + buy `surfacedhtx.com` (porkbun/namecheap, ~$10/yr)
 - [ ] Set up business email
-- [ ] 2-min trademark sanity check at uspto.gov (note: getsurfaced.ai exists in a similar space; differentiated by .com + city suffix + local-service market — low risk for a local business, worth confirming before national scale)
+- [ ] 2-min trademark sanity check at uspto.gov (note: getsurfaced.ai exists in a similar space; differentiated by name + city suffix + local-service market — low risk for a local business, worth confirming before national scale)
