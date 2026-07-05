@@ -8,8 +8,9 @@ _Goal: pull Google Maps data for several trades at once, then rank which trade/a
 
 ## Step 1 — Actor + where to put settings
 
-1. Apify Console → **Store** → search **`Google Maps Extractor`** (by "compass"). Open it → **Try for free**.
-2. You'll see an **input form** (fields with labels). Match the labels below. If you prefer, click the **"JSON" / raw input** tab and paste the block in Step 3 instead — same result.
+1. Apify Console → **Store** → open **`Google Maps Scraper`** OR **`Google Maps Extractor`** (both by "compass"). **Either works** — they return the same base data (name, category, review count, rating, website, phone). On current free-plan pricing the **Scraper is marginally cheaper** ($4 vs $5 per 1,000 places), but for a ~160-place scan that's the difference between $0.64 and $0.80 — negligible. Pick either → **Try for free**.
+2. ⚠️ **CRITICAL — do NOT enable any add-ons.** Both actors upsell optional enrichment lines: "Business leads enrichment" (**$100/1,000** on free!), "Company contacts enrichment," "Additional place details." You need **none** of them — the base **"Scraped place"** tier already includes review count + category. Enabling the leads add-on would torch your credit.
+3. You'll see an **input form** (fields with labels). Match the labels below. If you prefer, click the **"JSON" / raw input** tab and paste the block in Step 3 instead — same result.
 
 ## Step 2 — Fill the form (match by label)
 
