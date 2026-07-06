@@ -17,17 +17,20 @@ _Honest, non-spammy cold outreach for local contractors with strong reviews but 
 
 Hi there,
 
-I was looking up welders in Houston and came across Weldz-R-Us. 93 five-star reviews and 22 years in is a serious reputation.
+I came across Weldz-R-Us while looking up welders in Houston. 93 five-star reviews over 22 years is a serious reputation, most shops would kill for that.
 
-Two things I noticed:
-1. Your website, **weldz-r-us.com, isn't loading**. The domain looks down, so anyone who clicks it hits a dead page.
-2. When I search "mobile welding Houston" or "metal fence Houston," you're hard to find on the map, even though your reviews beat the shops that do show up.
+Two quick things I noticed:
 
-Fixing that is exactly what I do for Houston contractors: get your Google profile set up so you show up when people search, and sort out the website situation. I'd be glad to send a **free 1-page breakdown** of what's costing you calls, no strings.
+1. Your website, weldz-r-us.com, isn't loading. The domain looks down, so anyone trying to find your site hits a dead page.
+
+2. When I search "mobile welding Houston," you don't come up near the top, even though your reviews beat the shops that do. Those searches are turning into calls for them instead of you.
+
+Getting you found for those searches is exactly what I do for Houston welders and contractors. I'd be glad to send you a free one-page breakdown of what's costing you calls. No strings, no pitch.
 
 Want me to send it over?
 
-Wael, Surfaced HTX
+Wael
+Surfaced HTX
 (346) 560-3506 · wael@surfacedhtx.com
 
 _(Not interested? Reply "no thanks" and I won't follow up.)_
