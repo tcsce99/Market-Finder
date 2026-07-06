@@ -49,10 +49,12 @@ Your last Facebook post was ~16 months ago, and your Google profile isn't being 
 
 ## Recommended offer (simple, low-friction, gets you to $3–5k)
 
-**$300/month · month-to-month · cancel anytime · no setup fee (first 3 clients).**
+**First month free, then $300/month · month-to-month · cancel anytime · no setup fee.**
 
 Say it exactly like this on the call:
-> "It's $300 a month, month-to-month — no contract, cancel anytime. I'll waive the usual setup fee since you'd be one of my first Houston clients. If you're not seeing more calls in 60 days, cancel and we're square."
+> "It's $300 a month, and your first month is free, so you see the results before you pay anything. Month-to-month, no contract, cancel anytime."
+
+Collect their card at signup (via Stripe/Square) set to a 30-day free trial, so month 2 auto-charges with no reminding.
 
 ### Why this structure
 
