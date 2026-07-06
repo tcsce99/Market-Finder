@@ -20,8 +20,7 @@ When someone searches "mobile welding Houston" or "metal fence Houston," Google 
 **2. Your website is down.** ✅ verified
 weldz-r-us.com does not load — the domain isn't resolving. Anyone who clicks it (from Google or Facebook) hits a dead page, and Google reads a broken link as a negative signal. You're effectively paying the reputation cost of "no website."
 
-**3. Your Google listing is in the wrong category.** ✅ verified
-Your profile is categorized as **"Fence contractor,"** but your core business is **mobile welding & fabrication** (trailers, rigging, stainless/aluminum, plus fences & BBQ pits). Google mostly shows you for *fence* searches and hides you from the *welding* searches where your 22 years actually shine.
+**3. The profile isn't being worked.** You still get fresh reviews, so demand is clearly there, but a listing that just sits there slides down anyway. Regular posts, new photos, and a reply on every review tell Google you're active and push you up. That upkeep is what most competitors skip. _(Note: their category is correctly set to "Welder" on the live profile; the scan data mislabeled it. Always verify category on the live listing.)_
 
 **4. Your profile has gone quiet.** ✅ verified
 Your last Facebook post was ~16 months ago, and your Google profile isn't being posted to. Google favors *active* listings — quiet profiles slide down the rankings even with great reviews.
@@ -31,7 +30,6 @@ Your last Facebook post was ~16 months ago, and your Google profile isn't being 
 |---|---|---|
 | Reviews | 93 ★5.0 | [___] |
 | Working website | ❌ down | [✅/❌] |
-| Correct category | ❌ "Fence contractor" | [___] |
 | Posting recently | ❌ ~16 mo ago | [___] |
 
 **What I'd do in the first 30 days:**

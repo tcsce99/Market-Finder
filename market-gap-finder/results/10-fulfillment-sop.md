@@ -17,7 +17,7 @@ Only the real owner can verify ownership (Google may require a video walkthrough
 
 ## Monthly work (from business.google.com — all forms)
 **Setup (month 1, ~2–4 hrs):**
-- Fix primary category + add services (e.g., Weldz-R-Us: "Fence contractor" → **Welder** + welding/fabrication/trailer/fence services)
+- Fix primary category if it's wrong + add all services (check the live profile, scan/export category data can be stale)
 - Hours, service areas, keyword-rich description, phone, **working website link**
 - Upload real job photos
 - Set up review requests + reply to the existing review backlog

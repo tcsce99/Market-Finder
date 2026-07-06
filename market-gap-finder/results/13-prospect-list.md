@@ -6,7 +6,7 @@ _Pulled from the Apify scan. Verify each on Google Maps before pitching (review 
 
 | # | Business | Reviews | Website | Phone | Gap / angle | Contacted? |
 |---|---|---|---|---|---|---|
-| 0 | **Weldz-R-Us** | 93 ★5.0 | Dead (weldz-r-us.com) | (832) 727-3685 | Dead site, wrong category, invisible for welding. Start here. | |
+| 0 | **Weldz-R-Us** | 93 ★5.0 | Dead (weldz-r-us.com) | (832) 727-3685 | Dead site, invisible in search despite 93 reviews. Category is fine (Welder). Start here. | |
 | 1 | **Mobile Welding** | 4.6 (156) | None | (832) 929-4614 | Huge reviews, no website. Same gem as Weldz. | |
 | 2 | **Pinnacle Group Houston** | (21) | Yes | (832) 322-7651 | Thin reviews, likely not ranking. | |
 | 3 | **Fence Force LLC** | (15) | Yes | (346) 432-6315 | Low reviews vs competitors. | |
