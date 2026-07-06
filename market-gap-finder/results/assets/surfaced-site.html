@@ -72,6 +72,13 @@
   .final{background:var(--steel-deep);color:#EEF0F2;border-radius:16px;padding:44px 30px;text-align:center;}
   .final h2{font-family:var(--fD);font-weight:800;font-size:clamp(24px,4.5vw,34px);margin:0 0 12px;letter-spacing:-.5px;}
   .final p{color:rgba(238,240,242,.82);max-width:54ch;margin:0 auto 24px;}
+  .lead-form{max-width:520px;margin:6px auto 0;display:grid;gap:12px;text-align:left;}
+  .frow{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+  @media(max-width:520px){.frow{grid-template-columns:1fr;}}
+  .lead-form input,.lead-form textarea{width:100%;padding:12px 14px;border-radius:9px;border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.96);color:#16181B;font:inherit;font-size:15px;}
+  .lead-form input::placeholder,.lead-form textarea::placeholder{color:#71767c;}
+  .lead-form input:focus,.lead-form textarea:focus{outline:2px solid var(--accent);outline-offset:1px;}
+  .lead-form button{margin-top:2px;justify-self:center;cursor:pointer;border:none;}
 
   footer{text-align:center;padding:34px 0 50px;color:var(--ink-soft);font-size:14px;}
   footer .fbrand{font-family:var(--fD);font-weight:800;color:var(--ink);letter-spacing:-.3px;}
@@ -107,7 +114,7 @@
   <h1>Get found on Google.</h1>
   <p class="lede">Your customers are already searching for what you do. Surfaced HTX gets Houston contractors and local businesses to the top of Google Maps, so those searches turn into phone calls.</p>
   <div class="btns">
-    <a class="btn primary" href="mailto:wael@surfacedhtx.com?subject=Free%20Google%20visibility%20audit">Get a free audit</a>
+    <a class="btn primary" href="#contact">Get a free audit</a>
     <a class="btn ghost" href="tel:3465603506">Call (346) 560-3506</a>
   </div>
 </header>
@@ -148,15 +155,28 @@
       <li>No contracts, no long forms, no runaround</li>
       <li>Not seeing more calls in 60 days? Cancel, no hard feelings.</li>
     </ul>
-    <a class="btn primary" href="mailto:wael@surfacedhtx.com?subject=Free%20Google%20visibility%20audit">Start with a free audit</a>
+    <a class="btn primary" href="#contact">Start with a free audit</a>
   </div>
 </section>
 
-<section class="wrap">
+<section class="wrap" id="contact">
   <div class="final">
     <h2>See what's costing you calls.</h2>
-    <p>Send us your business name and we'll send back a free one-page breakdown of your Google presence, and the fixes that would put you in front of more customers.</p>
-    <a class="btn primary" href="mailto:wael@surfacedhtx.com?subject=Free%20Google%20visibility%20audit">Get my free audit</a>
+    <p>Send your business name and we'll email back a free one-page breakdown of your Google presence, and the fixes that would put you in front of more customers.</p>
+    <form name="lead" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="lead-form">
+      <input type="hidden" name="form-name" value="lead">
+      <p style="display:none"><label>Leave blank: <input name="bot-field"></label></p>
+      <div class="frow">
+        <input type="text" name="name" placeholder="Your name" required>
+        <input type="text" name="business" placeholder="Business name" required>
+      </div>
+      <div class="frow">
+        <input type="tel" name="phone" placeholder="Phone">
+        <input type="email" name="email" placeholder="Email">
+      </div>
+      <textarea name="message" placeholder="What do you do? (welding, fencing, etc.)" rows="3"></textarea>
+      <button type="submit" class="btn primary">Get my free audit</button>
+    </form>
   </div>
 </section>
 
