@@ -27,13 +27,13 @@ Fixing that is exactly what I do for Houston contractors: get your Google profil
 
 Want me to send it over?
 
-Surfaced HTX
-(346) 560-3506 · hello@surfacedhtx.com
+Wael, Surfaced HTX
+(346) 560-3506 · wael@surfacedhtx.com
 
-_(Signed as the brand, no personal name. Not interested? Reply "no thanks" and I won't follow up.)_
+_(Not interested? Reply "no thanks" and I won't follow up.)_
 
 ### Text / WhatsApp (to 832-727-3685), shorter
-> Hi, I came across Weldz-R-Us (93 five-star reviews, 22 yrs, impressive). Two quick things: your site weldz-r-us.com is down, and you're hard to find when people search "mobile welding" or "metal fence" in Houston. I help local contractors fix that. Can I send you a free 1-page breakdown of what's costing you calls? Surfaced HTX
+> Hi, I came across Weldz-R-Us (93 five-star reviews, 22 yrs, impressive). Two quick things: your site weldz-r-us.com is down, and you're hard to find when people search "mobile welding" or "metal fence" in Houston. I help local contractors fix that. Can I send you a free 1-page breakdown of what's costing you calls? Wael at Surfaced HTX
 
 ### Follow-up #1 (3 to 4 days later, if no reply)
 > Hey, following up. Still happy to send that free breakdown of why Weldz-R-Us isn't showing up in Google searches (plus the dead website). No cost, just useful. Want it?
@@ -64,7 +64,7 @@ I noticed [pick the true one]:
 
 I help local [trade] businesses fix exactly that: Google profile setup so you show up when people search. Happy to send a free 1-page breakdown of what's costing you calls, no strings. Want it?
 
-Surfaced HTX · (346) 560-3506
+Wael, Surfaced HTX · (346) 560-3506 · wael@surfacedhtx.com
 _(Reply "no thanks" and I won't follow up.)_
 
 ---
