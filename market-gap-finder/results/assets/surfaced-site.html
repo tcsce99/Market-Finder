@@ -1,0 +1,166 @@
+<title>Surfaced HTX, Get found on Google</title>
+<style>
+  :root{
+    --ground:#F1EFEC; --surface:#FFFFFF; --ink:#16181B; --ink-soft:#575B61;
+    --line:#DED9D1; --steel:#2E3945; --steel-deep:#232C36; --accent:#D6560F; --accent-soft:#F6E7DB;
+    --good:#286E45;
+    --fD:"Helvetica Neue",Arial,"Arial Narrow",sans-serif;
+    --fB:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --fM:ui-monospace,"SF Mono",Consolas,monospace;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --ground:#0F1113; --surface:#171A1E; --ink:#EAE7E1; --ink-soft:#9CA2AA;
+    --line:#262B31; --steel:#1C232B; --steel-deep:#141A20; --accent:#F0721E; --accent-soft:#241C15; --good:#54B37A;
+  }}
+  :root[data-theme="light"]{--ground:#F1EFEC;--surface:#FFFFFF;--ink:#16181B;--ink-soft:#575B61;--line:#DED9D1;--steel:#2E3945;--steel-deep:#232C36;--accent:#D6560F;--accent-soft:#F6E7DB;--good:#286E45;}
+  :root[data-theme="dark"]{--ground:#0F1113;--surface:#171A1E;--ink:#EAE7E1;--ink-soft:#9CA2AA;--line:#262B31;--steel:#1C232B;--steel-deep:#141A20;--accent:#F0721E;--accent-soft:#241C15;--good:#54B37A;}
+
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--fB);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:960px;margin:0 auto;padding:0 22px;}
+  a{color:inherit;}
+
+  /* nav */
+  nav{display:flex;align-items:center;justify-content:space-between;padding:20px 0;max-width:960px;margin:0 auto;padding-left:22px;padding-right:22px;}
+  .brand{display:inline-flex;align-items:center;gap:9px;}
+  .brand svg{width:30px;height:30px;}
+  .brand .bwm{font-family:var(--fD);font-weight:800;font-size:20px;letter-spacing:-.4px;}
+  .brand .bchip{font-family:var(--fD);font-weight:800;font-size:11px;letter-spacing:.06em;color:#fff;background:var(--accent);padding:3px 6px;border-radius:5px;}
+  .nav-cta{font-family:var(--fM);font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);text-decoration:none;}
+  .nav-cta:hover{color:var(--accent);}
+
+  /* hero */
+  .hero{padding:56px 0 40px;text-align:center;}
+  .eyebrow{font-family:var(--fM);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin:0 0 18px;}
+  h1{font-family:var(--fD);font-weight:800;letter-spacing:-1px;font-size:clamp(34px,7vw,60px);line-height:1.02;margin:0 auto;max-width:14ch;text-wrap:balance;}
+  .lede{font-size:clamp(16px,2.4vw,20px);color:var(--ink-soft);max-width:60ch;margin:20px auto 30px;}
+  .btns{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;}
+  .btn{font-family:var(--fD);font-weight:700;font-size:15px;text-decoration:none;padding:14px 22px;border-radius:9px;display:inline-block;}
+  .btn.primary{background:var(--accent);color:#fff;}
+  .btn.primary:hover{filter:brightness(1.06);}
+  .btn.ghost{border:1.5px solid var(--line);color:var(--ink);}
+  .btn.ghost:hover{border-color:var(--accent);}
+  .btn:focus-visible{outline:3px solid var(--accent);outline-offset:2px;}
+
+  /* strip */
+  .strip{background:var(--steel);color:#EEF0F2;border-radius:14px;padding:34px 30px;margin:20px 0 8px;text-align:center;}
+  .strip h2{font-family:var(--fD);font-weight:800;font-size:clamp(22px,4vw,30px);margin:0 0 10px;letter-spacing:-.4px;}
+  .strip p{color:rgba(238,240,242,.82);max-width:62ch;margin:0 auto;font-size:16px;}
+
+  section{padding:44px 0;}
+  .sec-label{font-family:var(--fM);font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft);text-align:center;margin:0 0 26px;}
+
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;}
+  @media(max-width:620px){.grid{grid-template-columns:1fr;}}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:22px 24px;}
+  .card h3{font-family:var(--fD);font-weight:700;font-size:17px;margin:0 0 6px;}
+  .card p{margin:0;color:var(--ink-soft);font-size:14.5px;}
+  .card .n{font-family:var(--fM);font-size:12px;color:var(--accent);display:block;margin-bottom:10px;}
+
+  .checks{list-style:none;margin:0 auto;padding:0;max-width:620px;display:grid;gap:12px;}
+  .checks li{display:grid;grid-template-columns:26px 1fr;gap:12px;align-items:start;font-size:16px;}
+  .checks .tick{color:var(--accent);font-weight:800;font-family:var(--fD);}
+
+  /* pricing */
+  .price{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:34px;text-align:center;max-width:520px;margin:0 auto;}
+  .price .amt{font-family:var(--fD);font-weight:800;font-size:52px;letter-spacing:-1.5px;line-height:1;}
+  .price .amt span{font-size:20px;color:var(--ink-soft);font-weight:700;}
+  .price .terms{font-family:var(--fM);font-size:13px;color:var(--accent);letter-spacing:.02em;margin:10px 0 4px;}
+  .price ul{list-style:none;padding:0;margin:16px 0 22px;display:grid;gap:8px;color:var(--ink-soft);font-size:14.5px;}
+
+  /* final cta */
+  .final{background:var(--steel-deep);color:#EEF0F2;border-radius:16px;padding:44px 30px;text-align:center;}
+  .final h2{font-family:var(--fD);font-weight:800;font-size:clamp(24px,4.5vw,34px);margin:0 0 12px;letter-spacing:-.5px;}
+  .final p{color:rgba(238,240,242,.82);max-width:54ch;margin:0 auto 24px;}
+
+  footer{text-align:center;padding:34px 0 50px;color:var(--ink-soft);font-size:14px;}
+  footer .fbrand{font-family:var(--fD);font-weight:800;color:var(--ink);letter-spacing:-.3px;}
+  footer a{color:var(--ink-soft);text-decoration:none;}
+  footer a:hover{color:var(--accent);}
+
+  @media (prefers-reduced-motion:no-preference){
+    .hero>*{opacity:0;transform:translateY(10px);animation:rise .6s ease forwards;}
+    .hero .eyebrow{animation-delay:.02s;} h1{animation-delay:.10s;} .hero .lede{animation-delay:.20s;} .hero .btns{animation-delay:.30s;}
+    @keyframes rise{to{opacity:1;transform:none;}}
+  }
+</style>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <g id="mk">
+    <line x1="8" y1="40" x2="56" y2="40" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+    <line x1="32" y1="53" x2="32" y2="40" stroke="var(--accent)" stroke-width="5" stroke-linecap="round" opacity=".28"/>
+    <line x1="32" y1="40" x2="32" y2="26" stroke="var(--accent)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M32 9 L45 26 L19 26 Z" fill="var(--accent)"/>
+  </g>
+</defs></svg>
+
+<nav>
+  <span class="brand">
+    <svg viewBox="0 0 64 64"><use href="#mk"/></svg>
+    <span class="bwm">Surfaced</span><span class="bchip">HTX</span>
+  </span>
+  <a class="nav-cta" href="tel:3465603506">(346) 560-3506</a>
+</nav>
+
+<header class="hero wrap">
+  <p class="eyebrow">Google Business Profile Management · Houston</p>
+  <h1>Get found on Google.</h1>
+  <p class="lede">Your customers are already searching for what you do. Surfaced HTX gets Houston contractors and local businesses to the top of Google Maps, so those searches turn into phone calls.</p>
+  <div class="btns">
+    <a class="btn primary" href="mailto:wael@surfacedhtx.com?subject=Free%20Google%20visibility%20audit">Get a free audit</a>
+    <a class="btn ghost" href="tel:3465603506">Call (346) 560-3506</a>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="strip">
+    <h2>Great work. Invisible online.</h2>
+    <p>Most local businesses have a Google listing that's only half set up: wrong category, a dead website link, no recent photos, reviews nobody answers. So they get buried, and the customer calls a competitor with worse work. That gap is exactly what we fix.</p>
+  </div>
+</div>
+
+<section class="wrap">
+  <p class="sec-label">What we handle for you</p>
+  <div class="grid">
+    <div class="card"><span class="n">01</span><h3>Profile, done right</h3><p>Correct categories, every service listed, hours, service areas, and a keyword-rich description so Google shows you for the right searches.</p></div>
+    <div class="card"><span class="n">02</span><h3>Reviews that build</h3><p>A simple system to bring in new reviews, plus on-brand replies to every one, old and new. Reviews are the biggest lever on ranking.</p></div>
+    <div class="card"><span class="n">03</span><h3>Always active</h3><p>Fresh photos and a weekly post, because Google favors listings that stay alive. Most of your competitors never bother.</p></div>
+    <div class="card"><span class="n">04</span><h3>A working web link</h3><p>No site, or a broken one? We get a live, clean page on your listing so clicks stop hitting a dead end.</p></div>
+  </div>
+</section>
+
+<section class="wrap">
+  <p class="sec-label">How it works</p>
+  <ul class="checks">
+    <li><span class="tick">→</span><span><b>We audit your Google presence</b> and show you exactly where you're losing calls. Free, no strings.</span></li>
+    <li><span class="tick">→</span><span><b>You add us as a manager</b> on your profile. You stay the owner, we never touch your passwords, and you can remove us anytime.</span></li>
+    <li><span class="tick">→</span><span><b>We fix and manage it every month</b>, and send you a simple report showing your ranking and the calls coming in.</span></li>
+  </ul>
+</section>
+
+<section class="wrap">
+  <p class="sec-label">Simple pricing</p>
+  <div class="price">
+    <div class="amt">$300<span>/month</span></div>
+    <p class="terms">month-to-month · cancel anytime · no setup fee</p>
+    <ul>
+      <li>Everything above, handled for you</li>
+      <li>No contracts, no long forms, no runaround</li>
+      <li>Not seeing more calls in 60 days? Cancel, no hard feelings.</li>
+    </ul>
+    <a class="btn primary" href="mailto:wael@surfacedhtx.com?subject=Free%20Google%20visibility%20audit">Start with a free audit</a>
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="final">
+    <h2>See what's costing you calls.</h2>
+    <p>Send us your business name and we'll send back a free one-page breakdown of your Google presence, and the fixes that would put you in front of more customers.</p>
+    <a class="btn primary" href="mailto:wael@surfacedhtx.com?subject=Free%20Google%20visibility%20audit">Get my free audit</a>
+  </div>
+</section>
+
+<footer class="wrap">
+  <p><span class="fbrand">Surfaced HTX</span> · Get found on Google.</p>
+  <p>Houston, TX · <a href="tel:3465603506">(346) 560-3506</a> · <a href="mailto:wael@surfacedhtx.com">wael@surfacedhtx.com</a></p>
+</footer>
